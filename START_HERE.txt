@@ -1,0 +1,6 @@
+【Consciousness Tracer 标准启动流程】
+1. 打开 CMD
+2. d:
+3. cd CT
+4. tracer-env\Scripts\activate
+5. python main.py
